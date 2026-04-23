@@ -1,0 +1,28 @@
+{
+  "origin": {
+    "chain": "Sepolia",
+    "chainId": 11155111,
+    "usdc": "0x94a9D9AC8a22534E3FaCa9F4e7F2E2cf85d5E4C8",
+    "depositWallet": "0xcD46C4C833725bC46b8aA4136BCdd35b615b5BC5",
+    "callbackProxy": "0xc9f36411C9897e7F959D99ffca2a0Ba7ee0D7bDA",
+    "verificationRelay": "0x77B770620231839B6309e09ceD726456A96b07A7",
+    "verificationRelayDeployTx": "0xb92b77f5d5feee68df190c06cd01e09985c09f210d3b39f55f42b806372933e1"
+  },
+  "destination": {
+    "chain": "Base Sepolia",
+    "chainId": 84532,
+    "callbackProxy": "0xa6eA49Ed671B8a4dfCDd34E36b7a75Ac79B8A5a6",
+    "openwealthToken": "0xE44D3F0ED40C04AaD3858eC34870B02b496c6Aaf",
+    "openwealthTokenDeployTx": "0x7331e29d47a65ec9d9de9dd352f0410a564d0053da0a1e3a53ee37f114cf775e"
+  },
+  "reactive": {
+    "chain": "Reactive Lasna Testnet",
+    "chainId": 5318007,
+    "openwealthRSC": "0xd29025E3D14bef990e82d5385b27A97f0b97bf4b",
+    "openwealthRSCDeployTx": "0x5d54eb2d1e03992ef80f2335bb7df1d9e90f5db152d6ec75391989b805a15b8d",
+    "openwealthRSCDeployBlock": 3215513,
+    "rvmId": "0x49aBE186a9B24F73E34cCAe3D179299440c352aC"
+  },
+  "deployer": "0x49aBE186a9B24F73E34cCAe3D179299440c352aC",
+  "clientWalletForDemo": "0x49aBE186a9B24F73E34cCAe3D179299440c352aC"
+}
